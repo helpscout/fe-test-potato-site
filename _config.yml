@@ -1,0 +1,14 @@
+title: Potato Site
+description: >- # this means to ignore newlines until "baseurl:"
+  The best potato site in the universe.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+source: ./src
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+permalink: pretty

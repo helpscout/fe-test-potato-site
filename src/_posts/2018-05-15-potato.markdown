@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Potato"
+date:   2018-05-15 15:04:59 -0400
+---
+
+<div style="width: 300px;">
+  <p>
+    <img src="/images/potato.png">
+  </p>
+</div>
+
+Kerr's pink sieglinde red pontiac pink eye, monalisa blazer russet canela russet adirondack blue adirondack red marcy. Fianna blazer russet yellow finn atlantic record ratte. Bildtstar irish cobbler adirondack red adirondack blue marfona estima alturas. Kestrel yukon gold red lasoda marquis linda british queens. Monalisa marquis carola chelina yukon gold. Carola bannock russet lady balfour marfona primura red lasoda irish cobbler. Kipfler selma flava monalisa record maris piper.
+
+<!--
+{% Video https://www.youtube.com/watch?v=_wx__fEyDj0 %}
+-->
+
+Russet norkotah shepody lady balfour french fries, fingerling ranger russet blazer russet bamberg annabelle. Pink eye spud langlade pike jersey royal red norland. Cara silverton russet monalisa carola kestrel snowden. Alturas russet burbank cara superior bintje. Almond selma red pontiac flava atlantic british queens bonnotte. Jersey royal red norland snowden rooster kennebec british queens.
+
+<!--
+Should start at 20 seconds!
+{% Video https://youtu.be/QzXoEBplJgk?t=20s %}
+-->
+
+Cara bintje belle de fontenay snowden langlade kerr's pink. French fries arran victory maris piper linda bamberg selma. Linda almond goldrush maris piper nicola, pink fir apple record bildtstar atlantic amandine. Anya arran victory norgold russet spunta bamberg maris piper, kerr's pink king edward bamberg cielo innovator. Bannock russet anya cabritas russet burbank camota canela russet agata. Marquis tater tots pink eye, yukon gold almond vivaldi amandine bintje blue congo silverton russet.
+
+<!--
+{% Video https://helpscout.wistia.com/medias/b5mo6pku23 %}
+-->
