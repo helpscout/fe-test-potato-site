@@ -1,7 +1,8 @@
-# Potato Site
+# 🥔 Potato Site
 
 > Front-end Engineer Hiring Project (Design Team)
 
+Check out the [challenge notes](./challenge.md) for details on project requirements and submission.
 
 ## 🛠 Prerequisite
 
@@ -31,6 +32,7 @@ Below are notable folders in this project:
 ```
 /fe-test-potato-site
 |- __tests__/
+|- specs/
 \- src/
   |- _layouts/
   |- _posts/

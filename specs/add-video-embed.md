@@ -1,4 +1,4 @@
-# Add video embed support
+# 📹 Add video embed support
 
 👋 Hai!
 
@@ -51,3 +51,21 @@ It shouldn't break responsiveness though. As you resize the browser, we shouldn'
 ### Testing
 
 Our previous dev added Jest for Javascript testing. I don't know how to write test, but I know how important they are. If you write out a JS-based solution, it would be nice to include some tests as well. Not necessary, but definitely nice to have!
+
+
+## Helpful links/things
+
+* [Jekyll plugins documentation](https://jekyllrb.com/docs/plugins/)
+* [Wistia Embed documentation](https://wistia.com/support/developers/async-embeds)
+
+
+#### Wistia embed code
+
+Replace `WISTIA_VIDEO_ID` with the actual video ID.
+
+```html
+<script src="//fast.wistia.com/embed/medias/WISTIA_VIDEO_ID.jsonp" async></script>
+<div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;">
+<div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;">
+<div class="wistia_embed wistia_async_WISTIA_VIDEO_ID" seo=false videoFoam=true" style="height:100%;width:100%">&nbsp;</div></div></div>
+```
