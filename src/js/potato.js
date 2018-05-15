@@ -1,5 +1,7 @@
 // Add your JS here
 (function(global) {
+  console.log('Potato!')
+
   const potato = 'Indeed!'
 
   // Exports for Node (Testing)

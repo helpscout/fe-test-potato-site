@@ -9,15 +9,15 @@ I want to add video embed support to our blog posts. It's tricky to have to find
 
 I did some research, and it looks like we can add a Jekyll plugin that can magically turn Liquid code into HTML.
 
-I was thinking the embed snippet would look something like this:
+I was thinking the embed snippet needs to look/work like this:
 
 ```
 {% Video https://www.youtube.com/watch?v=_wx__fEyDj0 %}
 ```
 
-I've added 3 embed snippets in my blog post (`/src/_posts/2018-05-15-potato.markdown`).
+I've added 3 video URLs in my blog post (`/src/_posts/2018-05-15-potato.markdown`).
 
-I've commented them out for now. Otherwise, Jekyll breaks and I can't see the local dev site.
+I've commented them out for now!
 
 We only need to support YouTube/Wistia for now. But, we're planning on maybe adding other embed options, like Vimeo or DailyMotion. The solution we come up with now should be flexible enough to (relatively easily) add future embeds. If it's simple enough for someone on the design/growth team to add/update, even better!
 

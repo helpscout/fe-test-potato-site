@@ -51,7 +51,9 @@ Fire up the local development server by running:
 bundle exec jekyll serve --watch
 ```
 
-Visit the dev site at [[http://localhost:4000/](http://localhost:4000/).
+Visit the dev site at [http://localhost:4000/](http://localhost:4000/).
+
+Check out the blog post at [http://localhost:4000/2018/05/15/potato/](http://localhost:4000/2018/05/15/potato/).
 
 
 ## ⚗️ Testing
