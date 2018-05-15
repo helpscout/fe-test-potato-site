@@ -15,10 +15,7 @@ A working Ruby dev environment. Mac OS should come with Ruby by default, but it 
 
 ## 🔧 Setup
 
-Clone this repo to your computer.
-
-```
-```
+Fork this repo to your Github account, and clone it to your computer.
 
 Go into that directory and install dependencies by running:
 
@@ -29,11 +26,19 @@ bundle install
 
 ## 📂 File structure
 
+Below are notable folders in this project:
+
 ```
 /fe-test-potato-site
+|- __tests__/
 \- src/
-  |
+  |- _layouts/
+  |- _posts/
+  |- css/
+  \- js/
 ```
+
+The blog posts live in the `_posts/` folder.
 
 
 ## 🕹 Development
@@ -45,3 +50,18 @@ bundle exec jekyll serve --watch
 ```
 
 Visit the dev site at [[http://localhost:4000/](http://localhost:4000/).
+
+
+## ⚗️ Testing
+
+The only test suite set up is powered by Jest. To get that setup, install dependencies by running:
+
+```
+npm install
+```
+
+To run the tests, run this command:
+
+```
+npm test
+```

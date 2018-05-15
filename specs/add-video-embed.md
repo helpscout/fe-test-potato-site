@@ -19,12 +19,15 @@ I've added 3 embed snippets in my blog post (`/src/_posts/2018-05-15-potato.mark
 
 I've commented them out for now. Otherwise, Jekyll breaks and I can't see the local dev site.
 
+We only need to support YouTube/Wistia for now. But, we're planning on maybe adding other embed options, like Vimeo or DailyMotion. The solution we come up with now should be flexible enough to (relatively easily) add future embeds. If it's simple enough for someone on the design/growth team to add/update, even better!
+
 
 ## Requirements
 * Make the `{% Video %}` tag work
-* Should work for YouTube and Wistia embeds
+* Needs to support YouTube and Wistia embeds
 * Embeds **need** to be responsive
 * YouTube "start at" timecode should still work
+* Make it flexible to easily add other video embed support (future)
 
 
 
@@ -38,6 +41,13 @@ I've included a mock of how the embed should look like for Desktop and Mobile.
 
 ## Nice to have
 
+### Design
+
 It would be cool if the video embed could be larger compared to the text copy area. I really like this effect! Maybe… 20% larger on each side?
 
 It shouldn't break responsiveness though. As you resize the browser, we shouldn't see any horizontal scrollbar happening.
+
+
+### Testing
+
+Our previous dev added Jest for Javascript testing. I don't know how to write test, but I know how important they are. If you write out a JS-based solution, it would be nice to include some tests as well. Not necessary, but definitely nice to have!
