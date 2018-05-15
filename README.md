@@ -2,7 +2,10 @@
 
 > Front-end Engineer Hiring Project (Design Team)
 
+## 💪 Challenge
+
 Check out the [challenge notes](./challenge.md) for details on project requirements and submission.
+
 
 ## 🛠 Prerequisite
 

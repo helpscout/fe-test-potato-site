@@ -1,6 +1,6 @@
 # 💪 Challenge
 
-Review the (design spec)[./specs/add-video-embed.md) to see your task.
+Review the [design spec](./specs/add-video-embed.md) to see your task.
 
 To complete this challenge, you will need to use Ruby (Jekyll), and almost certainly Javascript and CSS as well.
 
