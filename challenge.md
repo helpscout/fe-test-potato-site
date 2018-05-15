@@ -34,4 +34,7 @@ Again, it's totally fine (seriously), please also include the following in your 
 
 ### If you did finish within 3 hours...
 
-Feel free to add additional enhancements (e.g. fancy designs, additional embed support, tests, etc...)
+Feel free to add additional enhancements (e.g. fancy designs, additional embed support, tests, etc...). If you do, please include the following in your PR description:
+
+* Enhancements you made
+* Reasoning/benefits of those enhancements
