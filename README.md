@@ -45,6 +45,8 @@ The blog posts live in the `_posts/` folder.
 
 ## 🕹 Development
 
+This project is basically an out-of-the-box Jekyll site, that was generated via `jekyll new`.
+
 Fire up the local development server by running:
 
 ```
