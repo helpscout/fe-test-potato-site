@@ -19,7 +19,7 @@ A working Ruby dev environment. Mac OS should come with Ruby by default, but it 
 
 ## 🔧 Setup
 
-Fork this repo to your Github account, and clone it to your computer.
+Fork/clone/download this repo it to your computer.
 
 Go into that directory and install dependencies by running:
 
