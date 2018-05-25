@@ -7,7 +7,7 @@ I want to add video embed support to our blog posts. It's tricky to have to find
 
 ## Task
 
-I did some research, and it looks like we can add a Jekyll plugin that can magically turn Liquid code into HTML.
+I did some research, and it looks like we can **create** a Jekyll plugin that can magically turn Liquid code into HTML.
 
 I was thinking the embed snippet needs to look/work like this:
 
